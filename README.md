@@ -9,16 +9,16 @@
 | Участник | Роль в ЛР 1 | GitHub |
 |---|---|---|
 | Вячеслав С. | Менеджер проекта | @ty4a4o |
-| Илюза Б. | Аналитик предметной области | @albaberish-hub |
-| Альберт Б. | Технический организатор | @Ilyza25 |
+| Илюза Б. | Аналитик предметной области | @Ilyza25 |
+| Альберт Б. | Технический организатор | @albaberish-hub |
 | <Имя Ф.> | Руководитель рисков и решений | @<логин> |
 
 ## Ссылки
 
 - Доска проекта: <ссылка на GitHub Project>
 - Устав проекта: [docs/charter.md](docs/charter.md)
+- Командный договор: [docs/tasks/team-agreement.md](docs/tasks/team-agreement.md)
 - Задание ЛР 1: [docs/tasks/lab-1-assignment.md](docs/tasks/lab-1-assignment.md)
-- Как сделать Pull Request в браузере: [docs/guides/pr-web-ui.md](docs/guides/pr-web-ui.md)
 
 ## Статус
 
