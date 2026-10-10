@@ -51,4 +51,4 @@ quadrantChart
 | Выбор подхода к управлению | A | C | R | I |
 
 ## Интервью с заказчиком
-Протокол: [docs/meetings/](meetings/_templates.md)
+Протокол: [docs/meetings/](meetings/_template.md)
