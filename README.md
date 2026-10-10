@@ -14,7 +14,7 @@
 
 ## Ссылки
 
-- Доска проекта: [Доска проекта](https://github.com/users/ty4a4o/projects/1)
+- Доска проекта: [Project](https://github.com/users/ty4a4o/projects/1)
 - Устав проекта: [docs/charter.md](docs/charter.md)
 - Командный договор: [docs/tasks/team-agreement.md](docs/tasks/team-agreement.md)
 - Задание ЛР 1: [docs/tasks/lab-1-assignment.md](docs/tasks/lab-1-assignment.md)
