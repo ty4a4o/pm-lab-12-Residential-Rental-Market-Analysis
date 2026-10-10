@@ -8,14 +8,13 @@
 
 | Участник | Роль в ЛР 1 | GitHub |
 |---|---|---|
-| Вячеслав С. | Менеджер проекта | @ty4a4o |
+| Вячеслав С. | Менеджер проекта, технический организатор | @ty4a4o |
 | Илюза Б. | Аналитик предметной области | @Ilyza25 |
-| Альберт Б. | Технический организатор | @albaberish-hub |
-| <Имя Ф.> | Руководитель рисков и решений | @<логин> |
+| Альберт Б. | Руководитель рисков и решений | @albaberish-hub |
 
 ## Ссылки
 
-- Доска проекта: <ссылка на GitHub Project>
+- Доска проекта: [projects/1](projects/1)
 - Устав проекта: [docs/charter.md](docs/charter.md)
 - Командный договор: [docs/tasks/team-agreement.md](docs/tasks/team-agreement.md)
 - Задание ЛР 1: [docs/tasks/lab-1-assignment.md](docs/tasks/lab-1-assignment.md)
