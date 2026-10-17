@@ -1,4 +1,4 @@
-# Definition of Ready и Definition of Done
+# Definition of Ready и Definition of Done...
 
 <!-- TODO: шаг 4 задания ЛР 2. Правила должны быть короткими и проверяемыми: каждый пункт — «да» или «нет». -->
 
